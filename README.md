@@ -3,6 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/nielsboogaard/filepond-plugin-get-file/blob/master/LICENSE)
 [![npm version](https://badge.fury.io/js/filepond-plugin-get-file.svg)](https://badge.fury.io/js/filepond-plugin-get-file)
 
+Modified from the original to fix download button. 
+
 The Get File plugin will add a tiny 'download' icon in front of the filename to allow downloading the uploaded file.
 
 <img src="https://github.com/nielsboogaard/filepond-plugin-get-file/blob/master/demo.gif?raw=true" width="100%" alt=""/>
